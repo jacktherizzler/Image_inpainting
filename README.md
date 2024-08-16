@@ -1,1 +1,1 @@
-# Image_inpainting
+# Image inpainting
